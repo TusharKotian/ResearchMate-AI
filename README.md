@@ -48,3 +48,17 @@ ResearchMate AI is an AI-powered research assistant that helps students and rese
 6.Start the application:
    ```bash
     streamlit run app.py
+
+### 3. Recommended GitHub Topics
+
+Add these topics to your repository:
+
+`python` · `streamlit` · `langchain` · `google-gemini` · `generative-ai` · `llm` · `research-assistant` · `pdf-processing` · `pydantic`
+
+### 4. One important tip before publishing
+
+Make sure your `.env` file is included in `.gitignore` so your API key isn't accidentally uploaded to GitHub.
+
+Also, describe RAG, conversation memory, OCR, and multi-document analysis as **future improvements**, not existing features, until you've implemented them.
+
+**My recommendation:** Use the short description for GitHub's About section and the longer description in `README.md`. It communicates the project's functionality and demonstrates your practical experience with LangChain, LLM integration, structured output parsing, and Streamlit.
