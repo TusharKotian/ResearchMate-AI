@@ -34,7 +34,7 @@ ResearchMate AI is an AI-powered research assistant that helps students and rese
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
+   git clone github.com/TusharKotian/ResearchMate-AI
    cd ResearchMate-AI
 2. Create Virtual Environment:
    python -m venv .venv
